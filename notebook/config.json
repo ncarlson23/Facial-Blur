@@ -1,0 +1,8 @@
+{
+    "subscription_id": "cf92abd2-1d79-4207-bbbf-b7614ea936d7",
+    "resource_group_name": "IdentityHack",
+    "face_api_endpoint": "https://identityfaceapi.cognitiveservices.azure.com/",
+    "face_api_key": "61cc597732f64930b523aec7496e0a47",
+    "face_api_location": "West US",
+    "face_detection_url": "/face/v1.0/detect"
+}
