@@ -4,7 +4,7 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/overvi
 
 
 ## How to use this application
-1. This tool runs best in a notebook environment, such as Google Colab or Jupyter Notebook. First, upload a copy of this repository to either of these environments by using the github link associated with this repository.
+1. This tool runs best in a notebook environment, such as Google Colab or Jupyter Notebook. First, upload a copy of this repository to either of these environments by downloading a zipped folder containing the repository. Unzip the folder onto your computer and then open it in colab or Jupyter Notebook.
 
 2. Make sure that the project contains the IPYNB file as well as the config.json file and the temp folder.
 
